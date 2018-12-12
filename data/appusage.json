@@ -1,5 +1,5 @@
 [
-  {
+  
    "name": "table",
     {
         "Name":  "AERTSr64",
@@ -429,5 +429,5 @@
         "Name":  "wscript",
         "Mem":  1130496
     }
-    }
+    
 ]
