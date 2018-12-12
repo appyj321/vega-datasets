@@ -1,0 +1,430 @@
+[
+    {
+        "Name":  "AERTSr64",
+        "Mem":  704512
+    },
+    {
+        "Name":  "ApplicationFrameHost",
+        "Mem":  13131776
+    },
+    {
+        "Name":  "armsvc",
+        "Mem":  2478080
+    },
+    {
+        "Name":  "atieclxx",
+        "Mem":  3506176
+    },
+    {
+        "Name":  "atiesrxx",
+        "Mem":  1298432
+    },
+    {
+        "Name":  "audiodg",
+        "Mem":  14848000
+    },
+    {
+        "Name":  "auditbeat",
+        "Mem":  10334208
+    },
+    {
+        "Name":  "BrcmMgmtAgent",
+        "Mem":  6320128
+    },
+    {
+        "Name":  "browser_broker",
+        "Mem":  10620928
+    },
+    {
+        "Name":  "CcmExec",
+        "Mem":  70541312
+    },
+    {
+        "Name":  "chrome",
+        "Mem":  1225011200
+    },
+    {
+        "Name":  "concentr",
+        "Mem":  3870720
+    },
+    {
+        "Name":  "ConfigurationWizard",
+        "Mem":  3076096
+    },
+    {
+        "Name":  "conhost",
+        "Mem":  12304384
+    },
+    {
+        "Name":  "coredpussvr",
+        "Mem":  172032
+    },
+    {
+        "Name":  "csrss",
+        "Mem":  4407296
+    },
+    {
+        "Name":  "ctfmon",
+        "Mem":  6299648
+    },
+    {
+        "Name":  "dllhost",
+        "Mem":  10928128
+    },
+    {
+        "Name":  "D-MatrixNotification",
+        "Mem":  3506176
+    },
+    {
+        "Name":  "D-MatrixProblemDetector",
+        "Mem":  6197248
+    },
+    {
+        "Name":  "D-MatrixRobot",
+        "Mem":  24965120
+    },
+    {
+        "Name":  "D-MatrixSelfHeal",
+        "Mem":  6307840
+    },
+    {
+        "Name":  "dwm",
+        "Mem":  23097344
+    },
+    {
+        "Name":  "dxlservice",
+        "Mem":  5804032
+    },
+    {
+        "Name":  "explorer",
+        "Mem":  52527104
+    },
+    {
+        "Name":  "fcags",
+        "Mem":  9269248
+    },
+    {
+        "Name":  "filebeat",
+        "Mem":  11505664
+    },
+    {
+        "Name":  "fontdrvhost",
+        "Mem":  1638400
+    },
+    {
+        "Name":  "GoogleCrashHandler",
+        "Mem":  65536
+    },
+    {
+        "Name":  "GoogleCrashHandler64",
+        "Mem":  110592
+    },
+    {
+        "Name":  "heartbeat",
+        "Mem":  16171008
+    },
+    {
+        "Name":  "hpqwmiex",
+        "Mem":  1273856
+    },
+    {
+        "Name":  "HPSupportSolutionsFrameworkService",
+        "Mem":  6303744
+    },
+    {
+        "Name":  "Idle",
+        "Mem":  8192
+    },
+    {
+        "Name":  "LockApp",
+        "Mem":  21311488
+    },
+    {
+        "Name":  "LogonUI",
+        "Mem":  30957568
+    },
+    {
+        "Name":  "lsass",
+        "Mem":  16744448
+    },
+    {
+        "Name":  "macmnsvc",
+        "Mem":  3858432
+    },
+    {
+        "Name":  "macompatsvc",
+        "Mem":  19116032
+    },
+    {
+        "Name":  "masvc",
+        "Mem":  14639104
+    },
+    {
+        "Name":  "mcshield",
+        "Mem":  176611328
+    },
+    {
+        "Name":  "mctray",
+        "Mem":  1626112
+    },
+    {
+        "Name":  "Memory Compression",
+        "Mem":  81969152
+    },
+    {
+        "Name":  "metricbeat",
+        "Mem":  22855680
+    },
+    {
+        "Name":  "mfeatp",
+        "Mem":  46768128
+    },
+    {
+        "Name":  "mfecanary",
+        "Mem":  950272
+    },
+    {
+        "Name":  "mfeesp",
+        "Mem":  23416832
+    },
+    {
+        "Name":  "mfefire",
+        "Mem":  3461120
+    },
+    {
+        "Name":  "mfehcs",
+        "Mem":  1470464
+    },
+    {
+        "Name":  "mfemactl",
+        "Mem":  2449408
+    },
+    {
+        "Name":  "mfemms",
+        "Mem":  2699264
+    },
+    {
+        "Name":  "mfetp",
+        "Mem":  42733568
+    },
+    {
+        "Name":  "mfevtps",
+        "Mem":  13234176
+    },
+    {
+        "Name":  "MicrosoftEdge",
+        "Mem":  26120192
+    },
+    {
+        "Name":  "MicrosoftEdgeCP",
+        "Mem":  54939648
+    },
+    {
+        "Name":  "mmc",
+        "Mem":  19308544
+    },
+    {
+        "Name":  "MSASCuiL",
+        "Mem":  1568768
+    },
+    {
+        "Name":  "msdtc",
+        "Mem":  1384448
+    },
+    {
+        "Name":  "notepad",
+        "Mem":  12705792
+    },
+    {
+        "Name":  "nxtcod",
+        "Mem":  9633792
+    },
+    {
+        "Name":  "nxtcoordinator",
+        "Mem":  5820416
+    },
+    {
+        "Name":  "nxteufb",
+        "Mem":  1044480
+    },
+    {
+        "Name":  "nxtray",
+        "Mem":  14295040
+    },
+    {
+        "Name":  "nxtupdater",
+        "Mem":  512000
+    },
+    {
+        "Name":  "PASAgent",
+        "Mem":  15876096
+    },
+    {
+        "Name":  "policyHost",
+        "Mem":  21340160
+    },
+    {
+        "Name":  "powershell",
+        "Mem":  58503168
+    },
+    {
+        "Name":  "powershell_ise",
+        "Mem":  39084032
+    },
+    {
+        "Name":  "QInsight",
+        "Mem":  7766016
+    },
+    {
+        "Name":  "RAVBg64",
+        "Mem":  3817472
+    },
+    {
+        "Name":  "RAVCpl64",
+        "Mem":  2879488
+    },
+    {
+        "Name":  "Receiver",
+        "Mem":  9838592
+    },
+    {
+        "Name":  "RtkAudioService64",
+        "Mem":  1003520
+    },
+    {
+        "Name":  "RuntimeBroker",
+        "Mem":  56913920
+    },
+    {
+        "Name":  "SCNotification",
+        "Mem":  13201408
+    },
+    {
+        "Name":  "SearchIndexer",
+        "Mem":  16871424
+    },
+    {
+        "Name":  "SearchUI",
+        "Mem":  14409728
+    },
+    {
+        "Name":  "SecureConnector",
+        "Mem":  16158720
+    },
+    {
+        "Name":  "SecurityHealthService",
+        "Mem":  6057984
+    },
+    {
+        "Name":  "SelfServicePlugin",
+        "Mem":  11390976
+    },
+    {
+        "Name":  "services",
+        "Mem":  9732096
+    },
+    {
+        "Name":  "SettingSyncHost",
+        "Mem":  1228800
+    },
+    {
+        "Name":  "ShellExperienceHost",
+        "Mem":  798720
+    },
+    {
+        "Name":  "sihost",
+        "Mem":  15659008
+    },
+    {
+        "Name":  "SkypeBackgroundHost",
+        "Mem":  749568
+    },
+    {
+        "Name":  "smss",
+        "Mem":  196608
+    },
+    {
+        "Name":  "SMSvcHost",
+        "Mem":  4493312
+    },
+    {
+        "Name":  "spoolsv",
+        "Mem":  3977216
+    },
+    {
+        "Name":  "sppsvc",
+        "Mem":  18522112
+    },
+    {
+        "Name":  "svchost",
+        "Mem":  355442688
+    },
+    {
+        "Name":  "Sysmon",
+        "Mem":  5361664
+    },
+    {
+        "Name":  "System",
+        "Mem":  1101824
+    },
+    {
+        "Name":  "taskhostw",
+        "Mem":  35041280
+    },
+    {
+        "Name":  "UpdaterUI",
+        "Mem":  6070272
+    },
+    {
+        "Name":  "vf_agent",
+        "Mem":  24788992
+    },
+    {
+        "Name":  "vf_host",
+        "Mem":  1609728
+    },
+    {
+        "Name":  "w3wp",
+        "Mem":  3264512
+    },
+    {
+        "Name":  "wfcrun32",
+        "Mem":  4251648
+    },
+    {
+        "Name":  "wininit",
+        "Mem":  90112
+    },
+    {
+        "Name":  "winlogbeat",
+        "Mem":  19820544
+    },
+    {
+        "Name":  "winlogon",
+        "Mem":  4333568
+    },
+    {
+        "Name":  "WinStore.App",
+        "Mem":  1220608
+    },
+    {
+        "Name":  "WINWORD",
+        "Mem":  38215680
+    },
+    {
+        "Name":  "WiproHolmesSolutions",
+        "Mem":  18612224
+    },
+    {
+        "Name":  "WmiApSrv",
+        "Mem":  8753152
+    },
+    {
+        "Name":  "WmiPrvSE",
+        "Mem":  118906880
+    },
+    {
+        "Name":  "wscript",
+        "Mem":  1130496
+    }
+]
